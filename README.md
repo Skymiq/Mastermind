@@ -7,7 +7,7 @@ the code to guess consists of 4 digits from 1-6 (digits may repeat).
 A hint for the player is the feedback on how many digits have been
 guessed from the 4-digit code so far
 
-**Result:**
+**Sample Result:**
 
 Let's play a Mastermind game!
 Try to guess the secret code with 4 numbers between 1 and 6.
